@@ -1,5 +1,5 @@
 <div align="center">
-<h1>xdarked kitbot q&a</h1>
+<h1>xdarked kitbot Q&A</h1>
 </div>
 
 ### [discord](https://discord.gg/93zkUCZfzQ) 
