@@ -6,4 +6,4 @@
 
 ### [Q&A](https://github.com/xdarked/kitbot/blob/main/Q%26A.md)
 
-### [Commands]()
+### [Commands](https://github.com/xdarked/kitbot/blob/main/commands.md)
