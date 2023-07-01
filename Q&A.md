@@ -2,7 +2,7 @@
 <h1>xdarked kitbot Q&A</h1>
 </div>
 
-### [discord](https://discord.gg/93zkUCZfzQ) 
+# [discord](https://discord.gg/93zkUCZfzQ) 
 
 ## where source code - 🤓
 >source is not public, if it was 13 year old skids would claim it as their own
