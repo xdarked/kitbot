@@ -21,8 +21,10 @@
 > - %iq
 > - %gay
 > - %uptime
+> - %stock
 
 ## commands for whitelist users
+> - %resetstock
 > - %ignore
 > - %say
 > - %nc
