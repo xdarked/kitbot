@@ -5,7 +5,7 @@
 # [discord](https://discord.gg/93zkUCZfzQ)
 
 ## commands that everyone can use
-> - %kit
+> - %kit 
 > - %radius
 > - %8ball/ask
 > - %count
@@ -32,6 +32,7 @@
 > - %come
 > - %follow
 > - %stopfollow
+> - slot1 , choose slot 1 - 9
 
 ## commands for developers
 > - %enablekit
