@@ -5,7 +5,8 @@
 # [discord](https://discord.gg/93zkUCZfzQ)
 
 ## commands that everyone can use
-> - %kit 
+> - %kit, pvp, refill, general, dupe and redstone
+> - %list 
 > - %radius
 > - %8ball/ask
 > - %count
@@ -37,5 +38,5 @@
 ## commands for developers
 > - %enablekit
 > - %disablekit
-> - %longlog
+> - %log
 > - %relog
