@@ -6,10 +6,13 @@
 
 ## commands that everyone can use
 > - %kit pvp, refill, general, dupe and redstone
-> - %list 
+> - %list
+> - > - !seen (moooomoooo offline on 0b alot)
 > - %radius
 > - %temp
-> - !seen (moooomoooo offline on 0b alot)
+> - %ram
+> - %memory
+> - %age
 > - %8ball/ask
 > - %count
 > - %ping
