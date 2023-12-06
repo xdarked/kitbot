@@ -5,9 +5,11 @@
 # [discord](https://discord.gg/93zkUCZfzQ)
 
 ## commands that everyone can use
-> - %kit, pvp, refill, general, dupe and redstone
+> - %kit pvp, refill, general, dupe and redstone
 > - %list 
 > - %radius
+> - %temp
+> - !seen (moooomoooo offline on 0b alot)
 > - %8ball/ask
 > - %count
 > - %ping
