@@ -7,7 +7,7 @@
 ## commands that everyone can use
 > - %kit pvp, refill, general, dupe and redstone
 > - %list
-> - > - !seen (moooomoooo offline on 0b alot)
+> - %seen (if moooomoooo is offline i will change prefix for this command to !)
 > - %radius
 > - %temp
 > - %ram
