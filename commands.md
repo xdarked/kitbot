@@ -6,6 +6,8 @@
 
 ## commands that everyone can use
 > - %kit pvp, refill, general, dupe and redstone
+> - %joinmsg 
+> - %removejoinmsg
 > - %list
 > - %seen (if moooomoooo is offline i will change prefix for this command to !)
 > - %radius
