@@ -4,46 +4,47 @@
 
 # [discord](https://discord.gg/93zkUCZfzQ)
 
-## commands that everyone can use
-> - %kit pvp, refill, general, dupe and redstone
-> - %joinmsg 
-> - %removejoinmsg
-> - %list
-> - %seen (if moooomoooo is offline i will change prefix for this command to !)
-> - %radius
-> - %temp
-> - %ram
-> - %memory
-> - %age
-> - %8ball/ask
-> - %count
-> - %ping
-> - %bp (broken)
-> - %wp
-> - %coords/cords
-> - %kill
-> - %discord
-> - %help
-> - %msg
-> - %coinflip
-> - %iq
-> - %gay
-> - %uptime
-> - %stock
+## Commands That Everyone Can Use
+- **%kit** - Access various kits (pvp, refill, general, dupe, and redstone).
+- **%joinmsg** - Set a custom join message.
+- **%removejoinmsg** - Remove the custom join message.
+- **%list** - List available players or items.
+- **%seen** - Check when a player was last seen (prefix changes to `!` if moooomoooo is offline).
+- **%radius** - Perform actions within a specific radius.
+- **%temp** - Display temperature-related stats.
+- **%ram** - Show server RAM usage.
+- **%memory** - Display server memory information.
+- **%age** - Check or set age-related details.
+- **%8ball/ask** - Ask the magic 8-ball a question.
+- **%count** - Display or manage a count.
+- **%ping** - Check server or player latency.
+- **%bp** - Currently broken functionality.
+- **%wp** - Access waypoints.
+- **%coords/cords** - Share or view coordinates.
+- **%kill** - Kill a target or process.
+- **%discord** - Get the server's Discord link.
+- **%help** - Access help for commands.
+- **%msg** - Send a private message.
+- **%coinflip** - Flip a coin.
+- **%iq** - Generate or view IQ results.
+- **%gay** - Fun command related to gay percentage.
+- **%uptime** - Display server uptime.
+- **%stock** - Check stock levels.
 
-## commands for whitelist users
-> - %resetstock
-> - %ignore
-> - %say
-> - %nc
-> - %tphere
-> - %come
-> - %follow
-> - %stopfollow
-> - slot1 , choose slot 1 - 9
+## Commands for Whitelisted Users
+- **%resetstock** - Reset stock levels.
+- **%ignore** - Ignore specific players or commands.
+- **%say** - Send a server-wide message.
+- **%nc** - Shortcut for an action (context unclear).
+- **%tphere** - Teleport a player to you.
+- **%come** - Request someone to come to your location.
+- **%follow** - Make an entity follow you.
+- **%stopfollow** - Stop following actions.
+- **slot1 - slot9** - Choose an inventory slot (1-9).
 
-## commands for developers
-> - %enablekit
-> - %disablekit
-> - %log
-> - %relog
+## Commands for Developers
+- **%enablekit** - Enable the kit system
+- **%disablekit** - Disable the kit system
+- **%log** - View logs.
+- **%relog** - Refresh or relog the system.
+
