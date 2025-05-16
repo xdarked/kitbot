@@ -18,14 +18,13 @@
 > - %temp
 > - %ram
 > - %memory
-> - %age
+> - %nc
 > - %8ball/ask
 > - %count
 > - %ping
 > - %bp (broken)
 > - %wp
 > - %coords/cords
-> - %kill
 > - %discord
 > - %help
 > - %msg
@@ -37,9 +36,9 @@
 
 ## commands for whitelist users
 > - %resetstock
+> - %kill
 > - %ignore
 > - %say
-> - %nc
 > - %tphere
 > - %come
 > - %follow
