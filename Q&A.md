@@ -11,7 +11,7 @@
 >i use/d nodejs, javascript, mineflayer, discord.js and some other stuff that i cba listing 
 
 ## i want to make my own bot, can you help
->learn the language you are going to use and do it yourself, you do not need spoonfed unless your a 13 year old skid
+>maybe
 
 ## is it coords logger?
 >no, but always be safe and use kitbots at spawn, never at bases
